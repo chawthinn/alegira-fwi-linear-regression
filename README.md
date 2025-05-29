@@ -1,6 +1,6 @@
 # Algerian Forest Fire – Linear Regression Modeling
 
-This repository contains the solution for **AML 3104 – Assignment 1**. The objective is to analyze and model the **Fire Weather Index (FWI)** using weather and fire-related variables from the Algerian forest fire dataset.
+This repository contains the solution for **AML 3104 – Assignment 1 Individual Task**. The objective is to analyze and model the **Fire Weather Index (FWI)** using weather and fire-related variables from the Algerian forest fire dataset.
 
 ---
 
