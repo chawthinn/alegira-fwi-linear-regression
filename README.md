@@ -6,7 +6,7 @@ This repository contains the solution for **AML 3104 – Assignment 1 Individual
 
 ## Objective
 
-The goal is to develop and evaluate regression models that can estimate the Fire Weather Index (FWI) using meteorological and derived features. This includes:
+The goal is to develop and evaluate regression models that can estimate the Fire Weather Index (FWI) using climate-related and calculated features. This includes:
 
 - Data preprocessing and cleaning  
 - Feature distribution analysis and outlier handling  
