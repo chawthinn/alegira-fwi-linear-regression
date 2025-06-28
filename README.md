@@ -22,6 +22,8 @@ The goal is to develop and evaluate regression models that can estimate the Fire
 
 The dataset includes daily weather observations and FWI components from two regions in Algeria (Bejaia and Sidi Bel-abbes), collected between **June and September 2012**. It contains 244 instances and 12 attributes, including temperature, wind speed, humidity, and indices from the Canadian FWI system.
 
+## Citation
+
 Abid,  . (2019). Algerian Forest Fires [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5KW4N.
 ---
 
